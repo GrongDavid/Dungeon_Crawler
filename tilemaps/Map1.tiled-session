@@ -1,0 +1,57 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/David/IdeaProjects/rpg/assets/tilemaps/Maps/testMap.tmx",
+    "expandedProjectPaths": [
+        "Maps",
+        ".",
+        "Tilesets"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/David/IdeaProjects/rpg/assets/tilemaps/Maps/Tilesets/Dungeon_Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/David/IdeaProjects/rpg/assets/tilemaps/Maps/testMap.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 520.6666666666665,
+                "y": 482.6666666666666
+            }
+        },
+        "Maps/map1.tmx": {
+            "scale": 0.85,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 881.7647058823529,
+                "y": 590.5882352941177
+            }
+        },
+        "Tilesets/Dungeon_Tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/David/IdeaProjects/rpg/tilemaps/Maps",
+    "last.imagePath": "C:/Users/David/IdeaProjects/rpg/tilemaps/Tilesets",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 32,
+    "openFiles": [
+        "Maps/map1.tmx",
+        "C:/Users/David/IdeaProjects/rpg/assets/tilemaps/Maps/testMap.tmx"
+    ],
+    "project": "Map1.tiled-project",
+    "recentFiles": [
+        "Maps/map1.tmx",
+        "C:/Users/David/IdeaProjects/rpg/assets/tilemaps/Maps/testMap.tmx",
+        "Tilesets/Dungeon_Tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
